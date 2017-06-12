@@ -1,0 +1,11 @@
+A m1
+m1 m2
+m1 m3
+m1 m4
+m2 m6
+m3 m5
+m4 B
+m5 B
+m6 m5
+m6 m3
+m3 m4
